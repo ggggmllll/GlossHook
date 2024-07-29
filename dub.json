@@ -5,5 +5,11 @@
 	"copyright": "Copyright © 2024, ggggmllll",
 	"description": "A minimal D application.",
 	"license": "proprietary",
-	"name": "pvzhook"
+	"targetName": "gloss",
+	"targetType": "staticLibrary",
+	"targetPath": "out",
+	"sourcePaths": ["source"],
+	"libs": ["GlossHook"],
+	"lflags-android-arm": ["-l$PACKAGE_DIR/lib/ARM"],
+	"lflags-android-aarch64": ["-l$PACKAGE_DIR/lib/ARM64"]
 }
