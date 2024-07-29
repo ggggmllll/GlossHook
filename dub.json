@@ -5,7 +5,7 @@
 	],
 	"copyright": "Copyright © 2024, ggggmllll",
 	"description": "A minimal D application.",
-	"license": "GPL-3.0-only",
+	"license": "MIT",
 	"targetName": "gloss",
 	"targetType": "staticLibrary",
 	"targetPath": "out",
