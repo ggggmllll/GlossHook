@@ -1,10 +1,11 @@
 {
+	"name": "gloss",
 	"authors": [
 		"ggggmllll"
 	],
 	"copyright": "Copyright © 2024, ggggmllll",
 	"description": "A minimal D application.",
-	"license": "proprietary",
+	"license": "GPL-3.0-only",
 	"targetName": "gloss",
 	"targetType": "staticLibrary",
 	"targetPath": "out",
